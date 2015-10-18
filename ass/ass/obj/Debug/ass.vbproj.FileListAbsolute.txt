@@ -1,0 +1,11 @@
+C:\Users\Bo\Desktop\as\ass\ass\bin\Debug\ass.exe.config
+C:\Users\Bo\Desktop\as\ass\ass\obj\Debug\ass.Form1.resources
+C:\Users\Bo\Desktop\as\ass\ass\obj\Debug\ass.frmKhachhang.resources
+C:\Users\Bo\Desktop\as\ass\ass\obj\Debug\ass.Resources.resources
+C:\Users\Bo\Desktop\as\ass\ass\obj\Debug\ass.vbproj.GenerateResource.Cache
+C:\Users\Bo\Desktop\as\ass\ass\bin\Debug\ass.exe
+C:\Users\Bo\Desktop\as\ass\ass\bin\Debug\ass.pdb
+C:\Users\Bo\Desktop\as\ass\ass\bin\Debug\ass.xml
+C:\Users\Bo\Desktop\as\ass\ass\obj\Debug\ass.exe
+C:\Users\Bo\Desktop\as\ass\ass\obj\Debug\ass.xml
+C:\Users\Bo\Desktop\as\ass\ass\obj\Debug\ass.pdb
